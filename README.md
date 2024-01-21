@@ -13,11 +13,13 @@ greater understanding at the intersection of data science and astrology.
 In this project, we have adopted the OSEMN methodology as our guiding framework for the data
 analysis process. OSEMN offers a structured approach that encompasses five essential stages,
 ensuring a comprehensive and effective exploration of the data:
-1. Obtain![image](https://github.com/Bimsarasmp/Zodiac-Sign-Prediction-NLP/assets/139919035/2d41aa97-e1cc-4079-b734-5dd585016c46)
+![image](https://github.com/Bimsarasmp/Zodiac-Sign-Prediction-NLP/assets/139919035/2d41aa97-e1cc-4079-b734-5dd585016c46)
+1. Obtain
 2. Scrub
 3. Explore
 4. Model
 5. Interpret
+
 Data Source Authenticity: The dataset, "Blog Authorship Corpus," was sourced from
 (u.cs.biu.ac.il/~koppel/BlogCorpus.htm), a reputable academic website. Ensuring the authenticity
 of the data source is essential to maintain the integrity of the project.
