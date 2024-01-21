@@ -18,10 +18,9 @@ ensuring a comprehensive and effective exploration of the data:
 3. Explore
 4. Model
 5. Interpret
-
-1. Data Source Authenticity: The dataset, "Blog Authorship Corpus," was sourced from
+Data Source Authenticity: The dataset, "Blog Authorship Corpus," was sourced from
 (u.cs.biu.ac.il/~koppel/BlogCorpus.htm), a reputable academic website. Ensuring the authenticity
 of the data source is essential to maintain the integrity of the project.
-2. Data Size and Diversity: The dataset encompasses over 19,000 bloggers' posts, providing a
+Data Size and Diversity: The dataset encompasses over 19,000 bloggers' posts, providing a
 substantial amount of textual content for analysis. This diversity in the number of bloggers and
 their writing styles enhances the robustness of the predictive model.
